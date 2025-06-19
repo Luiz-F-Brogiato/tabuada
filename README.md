@@ -18,3 +18,5 @@ Feito com o objetivo de aprender laços de repetição, eventos e estruturas de 
 - ⚙️ JavaScript  
 
 ---
+
+##Projeto em tempo real: https://tabuada-10.netlify.app/
